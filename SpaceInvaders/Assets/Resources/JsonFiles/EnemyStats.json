@@ -1,0 +1,24 @@
+{
+  "listOfStatsForEnemy": [
+    {
+      "enemyName": "Enemy_1",
+      "killingPrice": 10,
+      "missileAttackRate": 0.99
+    },
+    {
+      "enemyName": "Enemy_2",
+      "killingPrice": 20,
+      "missileAttackRate": 0.975
+    },
+    {
+      "enemyName": "Enemy_3",
+      "killingPrice": 30,
+      "missileAttackRate": 0.95
+    },
+    {
+      "enemyName": "BonusShip",
+      "killingPriceMin": 50,
+      "killingPriceMax": 100
+    }
+  ]
+}
